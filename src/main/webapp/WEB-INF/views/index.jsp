@@ -8,7 +8,7 @@
 </head>
 <body>
 	<p><font color="red">${errMessage }</font></p>
-	<form action="/login.do" method="post">
+	<form action="/login" method="post">
 	Name: <input name="name" type="text">
 	Password: <input type="password" name="password">
 	<input name="submit" value="submit" type="submit"></form>
