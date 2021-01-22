@@ -6,3 +6,4 @@
 0:0:0:0:0:0:0:1 - - [22/Jan/2021:01:00:04 -0500] "GET /spring-mvc/login HTTP/1.1" 404 949 http-bio-8080-exec-10 2
 0:0:0:0:0:0:0:1 - - [22/Jan/2021:01:00:04 -0500] "GET /spring-mvc/login HTTP/1.1" 404 949 http-bio-8080-exec-10 1
 0:0:0:0:0:0:0:1 - - [22/Jan/2021:01:05:30 -0500] "GET /spring-mvc/login HTTP/1.1" 404 949 http-bio-8080-exec-1 77
+0:0:0:0:0:0:0:1 - - [22/Jan/2021:01:06:58 -0500] "GET /spring-mvc/login HTTP/1.1" 200 5 http-bio-8080-exec-1 85
